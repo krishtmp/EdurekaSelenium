@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18601" started-at="2018-02-04T07:29:47Z" finished-at="2018-02-04T07:30:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18601" started-at="2018-02-04T07:29:47Z" finished-at="2018-02-04T07:30:06Z">
+      <class name="com.mindtree.execution.TestExecution">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:[TestExecution passed=0 failed=0 skipped=0]]" name="openBrowser" is-config="true" duration-ms="6890" started-at="2018-02-04T12:59:47Z" finished-at="2018-02-04T12:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="loginFunction()[pri:1, instance:[TestExecution passed=0 failed=0 skipped=0]]" name="loginFunction" duration-ms="5475" started-at="2018-02-04T12:59:54Z" finished-at="2018-02-04T12:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunction -->
+        <test-method status="PASS" signature="bookingTicket()[pri:2, instance:[TestExecution passed=0 failed=0 skipped=0]]" name="bookingTicket" duration-ms="5652" started-at="2018-02-04T12:59:59Z" finished-at="2018-02-04T13:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingTicket -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:[TestExecution passed=0 failed=0 skipped=0]]" name="closeBrowser" is-config="true" duration-ms="379" started-at="2018-02-04T13:00:05Z" finished-at="2018-02-04T13:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterSuiteProcess()[pri:0, instance:[TestExecution passed=0 failed=0 skipped=0]]" name="afterSuiteProcess" is-config="true" duration-ms="4831" started-at="2018-02-04T13:00:06Z" finished-at="2018-02-04T13:00:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuiteProcess -->
+      </class> <!-- com.mindtree.execution.TestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
